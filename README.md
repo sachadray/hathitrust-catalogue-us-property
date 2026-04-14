@@ -19,7 +19,7 @@ This catalogue covers financial records published by state and territorial gover
 ### Document types included
  | | |
 |---|---|
-| Type | Description |
+| **Type** | **Description** |
 | Auditor | State auditor's reports |
 | Treasurer | State treasurer's reports |
 | Comptroller-General | Comptroller / comptroller-general / controller reports |
