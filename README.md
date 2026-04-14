@@ -2,7 +2,7 @@
  
 A searchable, filterable catalogue of digitised US state and territorial public finance records available through the [HathiTrust Digital Library](https://www.hathitrust.org).
  
-🔗 **Live site:** `https://sachadray.github.io/hathitrust-coverage-us-property/`  
+** 🔗 Live site: ** [https://sachadray.github.io/hathitrust-coverage-us-property/](https://sachadray.github.io/hathitrust-coverage-us-property/)
 ---
  
 ## About
