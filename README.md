@@ -17,9 +17,10 @@ This catalogue covers financial records published by state and territorial gover
 | **Years covered** | 1792 – 1952 |
  
 ### Document types included
- 
+ | | |
+|---|---|
 | Type | Description |
-| Auditor | State auditor's annual or biennial reports |
+| Auditor | State auditor's reports |
 | Treasurer | State treasurer's reports |
 | Comptroller-General | Comptroller / comptroller-general / controller reports |
 | Tax Commission | Tax commission or tax commissioner reports |
