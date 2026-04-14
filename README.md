@@ -1,10 +1,9 @@
 # HathiTrust Public Finance Coverage
  
 A searchable, filterable catalogue of digitised US state and territorial public finance records available through the [HathiTrust Digital Library](https://www.hathitrust.org).
- 
-** 🔗 Live site: ** [https://sachadray.github.io/hathitrust-coverage-us-property/](https://sachadray.github.io/hathitrust-coverage-us-property/)
----
- 
+
+🔗 Live site: [https://sachadray.github.io/hathitrust-coverage-us-property/](https://sachadray.github.io/hathitrust-coverage-us-property/)
+
 ## About
  
 This catalogue covers financial records published by state and territorial governments between **1792 and 1952**, including reports from auditors, treasurers, tax commissions, boards of equalization, and legislative journals. Each record links directly to its corresponding entry in the HathiTrust Digital Library.
@@ -20,7 +19,6 @@ This catalogue covers financial records published by state and territorial gover
 ### Document types included
  
 | Type | Description |
-|---|---|
 | Auditor | State auditor's annual or biennial reports |
 | Treasurer | State treasurer's reports |
 | Comptroller-General | Comptroller / comptroller-general / controller reports |
@@ -48,7 +46,6 @@ This catalogue covers financial records published by state and territorial gover
 ## Repository structure
  
 ```
-/
 ├── index.html                    # HathiTrust catalogue (all data, styles, and logic embedded)
 ├── hathitrust_coverage.xlsx      # HathiTrust catalogue (alternative Excel file)
 ```
