@@ -106,6 +106,27 @@ td.lk a:hover{background:var(--navy3);color:#fff}
 .pp{font-size:.8rem;color:var(--muted);display:flex;align-items:center;gap:.45rem}
 .pp select{padding:.25rem .4rem;font-size:.8rem;border:1px solid var(--border);border-radius:4px}
 
+/* ── Census section ──────────────────────────────────── */
+.census-section{margin-bottom:1.4rem}
+.census-section h2{font-size:.85rem;font-weight:700;color:var(--navy);
+  text-transform:uppercase;letter-spacing:.06em;margin-bottom:.9rem;
+  display:flex;align-items:center;gap:.5rem}
+.census-section h2::after{content:'';flex:1;height:1px;background:var(--border)}
+.census-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1rem}
+.census-card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);
+  padding:1.1rem 1.2rem;border-top:3px solid var(--gold)}
+.census-card h3{font-size:.9rem;font-weight:700;color:var(--navy);margin-bottom:.25rem}
+.census-card .sub{font-size:.78rem;color:var(--muted);margin-bottom:.75rem;line-height:1.4}
+.census-card .note{font-size:.75rem;color:var(--muted);font-style:italic;
+  margin-top:.6rem;line-height:1.4;border-top:1px solid var(--border);padding-top:.55rem}
+.clink{display:flex;align-items:center;gap:.5rem;padding:.32rem 0;border-bottom:1px solid #f0f2f5}
+.clink:last-of-type{border-bottom:none}
+.clink-label{font-size:.82rem;color:var(--text);min-width:80px;font-weight:600;white-space:nowrap}
+.clink a{font-size:.8rem;color:var(--navy3);text-decoration:none;
+  padding:.18rem .5rem;border:1px solid var(--navy3);border-radius:4px;
+  white-space:nowrap;transition:background .12s}
+.clink a:hover{background:var(--navy3);color:#fff}
+
 /* ── Footer ──────────────────────────────────────────────── */
 footer{text-align:center;font-size:.78rem;color:var(--muted);padding:2rem 1rem;
         border-top:1px solid var(--border);margin-top:2rem}
@@ -139,6 +160,43 @@ footer a{color:var(--navy3);text-decoration:none}
 
 <div class="main">
 
+  <!-- Census Reports -->
+  <div class="census-section">
+    <h2>📊 Census Reports</h2>
+    <div class="census-cards">
+
+      <div class="census-card">
+        <h3>Decennial Census — Wealth, Debt &amp; Taxation</h3>
+        <div class="sub">Published at each decennial census. Covers assessed valuations, debt, and tax receipts at state and local level.</div>
+        <div class="clink"><span class="clink-label">1902</span><a href="https://archive.org/details/cu31924030219665/page/n5/mode/2up" target="_blank" rel="noopener">Open ↗</a></div>
+        <div class="clink"><span class="clink-label">1922</span><a href="https://fraser.stlouisfed.org/title/259" target="_blank" rel="noopener">Open ↗</a></div>
+        <div class="clink"><span class="clink-label">1932</span><a href="https://babel.hathitrust.org/cgi/pt?id=uiug.30112106770735" target="_blank" rel="noopener">Open ↗</a></div>
+      </div>
+
+      <div class="census-card">
+        <h3>Annual — Financial Statistics of States</h3>
+        <div class="sub">State-level, 1915–1943 (gaps in 1920 and 1932–1936), then titled <em>State Finances</em>. Includes assessed valuation, tax rates, per capita property taxes, and public property values. No information on taxation systems or laws.</div>
+        <div class="clink"><span class="clink-label">1915–1939</span><a href="https://catalog.hathitrust.org/Record/003823986" target="_blank" rel="noopener">Open ↗</a></div>
+        <div class="clink"><span class="clink-label">1940–</span><a href="https://catalog.hathitrust.org/Record/100216279" target="_blank" rel="noopener">Open ↗</a></div>
+        <div class="note">Note: the 1921 report covers only 30 states — 18 states failed to submit census schedules to the Bureau of the Census.</div>
+      </div>
+
+      <div class="census-card">
+        <h3>Annual — Financial Statistics of Cities</h3>
+        <div class="sub">City-level, since 1899 (act of Congress 1898). Cities over 30,000 population (over 100,000 from 1932). Includes assessed valuation, basis of assessment (until 1930), taxes levied, tax rate, and per capita figures.</div>
+        <div class="clink"><span class="clink-label">1902–1938</span><a href="https://fraser.stlouisfed.org/title/164" target="_blank" rel="noopener">Open ↗</a></div>
+        <div class="clink"><span class="clink-label">1932–1945</span><a href="https://catalog.hathitrust.org/Record/100122716" target="_blank" rel="noopener">Open ↗</a></div>
+        <div class="clink"><span class="clink-label">1939–1963</span><a href="https://catalog.hathitrust.org/Record/002137361" target="_blank" rel="noopener">Open ↗</a></div>
+        <div class="note">From 1907: data on cities with multiple tax rates, special property taxes (corporation, bank stock), and poll taxes (from 1925).</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- State & Territorial Reports -->
+  <div class="census-section">
+    <h2>🏛️ State &amp; Territorial Reports (HathiTrust)</h2>
+  </div>
 
   <div class="filters">
     <div class="fg">
