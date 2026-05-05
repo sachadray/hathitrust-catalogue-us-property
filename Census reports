@@ -1,0 +1,101 @@
+
+***********************************************************************
+		Census Databases
+***********************************************************************
+Historical databases from site:
+
+https://www.census.gov/programs-surveys/gov-finances/data/historical-data.html
+
+***********************************************************************
+		Decennial Census Reports "Wealth, Debt, Taxation"
+***********************************************************************
+The following Census reports are in the folder Data > Data Collection > !Taxation systems
+
+	- Census 1902 Wealth, Debt and Taxation: https://archive.org/details/cu31924030219665/page/n5/mode/2up 
+
+
+The reports on Wealth, Debt and Taxation for 1922 and 1932 can be accessed at:
+	- full 1922 report : https://fraser.stlouisfed.org/title/259
+	- 1932 : https://babel.hathitrust.org/cgi/pt?id=uiug.30112106770735
+
+
+***********************************************************************
+			Annual Census Reports 
+***********************************************************************
+
+	*1. State-level publications: "Financial Statistics of States" 
+	
+	***************************************************************
+(1915-1943, with interruptions in 1920 and 1932-1936) and thereafter simply "State finances."
+	- includes data on assessed valuation, tax rates and per capita property taxes
+	- no information on taxation systems or laws
+	- data on state/public property values
+LINKS:
+- 1915-1939:  https://catalog.hathitrust.org/Record/003823986
+
+- 1940-    :  https://catalog.hathitrust.org/Record/100216279
+
+*NB: 1921 reports is only about 31 states
+cf page 1 "SCOPE OF REPORT. �-Table 1 of this report presents statistics of population and area for all of the 48
+states, and Tables 2 to 13, inclusive, present financial data for 30 of those states, Table 13 including data
+for one additional state � Connecticut.
+
+The omission of the financial statistics of 18 states is due to the failure of the officials of those states to
+cooperate with the Bureau of the Census by preparing the census schedules."
+
+	*2. County-level publications: 
+	*******************************
+- starts from 1942
+		
+
+	*3. City-level publication: "Financial Statistics of Cities"
+	
+	*************************************************************
+	- Since act of Congress of 1898 (first report: 1899)
+	- For cities with population over 30,000 (over 100,000 from 1932)
+	- includes Assessed Valuation of Property, Basis of Assessment (until 1930), Taxes Levied, Tax Rate, and the Per Capita Assessed Valuation, Tax Levy, and Debt
+LINKS:
+- 1902 - 1938: https://fraser.stlouisfed.org/title/164
+- 1932 - 1945: https://catalog.hathitrust.org/Record/100122716
+- 1939 - 1963: https://catalog.hathitrust.org/Record/002137361
+
+Text for tables from 1907 include data for :
+(i) city with two or more tax rates (for different parts of city or classes of property) 
+(ii) special property taxes (mostly corporation and bank stock)
+(iii) poll taxes from 1925 (likely presented in other sections in earlier reports)
+
+Variables included in tables (1916)
+- Assessed valuation of property
+- Reported basis of assessment in practice (percent of estimated true value)
+- Per capita assessment
+- Rate of Levy (including poll tax)
+- Levy (including poll tax)
+
+NB: 
+1. assessed valuation given for each division of city (city state, county, over division) as 
+	i) tax base may differ 
+	ii) for independent division of a city, a) areas of city may differ b) different tax base
+	iii) special case: 
+"The figures on a line for one of the divisions of the government of a city represent the assessed valuation of the
+property located within the limits of the city corporation subject to taxation for the maintenance of such
+division, as appraised at the assessment made for the  purpose of such division, whether it is the same as or
+different from that made for city corporation purposes, except those for divisions of which less than 10 per
+cent of the valuation was outside the limits of the city corporation."
+
+2. Definition of general property tax and special property tax
+"General property taxes are direct taxes levied upon property in general, in proportion to its assessed or appraised value. 
+Under this head are included all property taxes whose assessment and collection are by methods substantially identical
+ with those employed in the taxation of the property of the average citizen. Special property taxes are direct taxes 
+levied or collected, or levied and collected, by methods not applied to property in general. Among such taxes are those 
+popularly referred to as corporation taxes, bank taxes, security taxes, mortgage taxes, frontage taxes, tonnage taxes, 
+merchants' taxes, manufacturers' taxes, etc.� Report 1902 p12
+
+3. Classification of property belonging to railroads, telegraph companies and number of similar corporation under "Other property" 
+whenever given a separate classification (in city books)
+
+4. Reported basis of assessment given by city officials. Figures for real property are the more trustworthy.
+
+5. Per capita assessed valuation 
+
+
+- 
